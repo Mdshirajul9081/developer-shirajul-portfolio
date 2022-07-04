@@ -8,7 +8,7 @@ h1{
 .sirajul{
     color: blue;
 }
-section{
+.flexibul-continer{
     display: flex;
     margin-bottom: 100px;
 }
