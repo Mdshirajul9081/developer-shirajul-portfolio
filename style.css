@@ -4,6 +4,8 @@ body{
 }
 h1{
     font-size: 50px;
+    margin-left: 10px;
+    padding-left: 10px;
 }
 .sirajul{
     color: blue;
@@ -61,4 +63,8 @@ h1{
 }
 footer p{
     text-align: center;
+}
+.sirajul{
+    margin-left: 10px;
+    padding-left: 4%;
 }
